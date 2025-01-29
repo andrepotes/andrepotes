@@ -1,7 +1,6 @@
 # My name is André Potes, and Electrical and Computer engineer specialized in Robotics and Software Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andre-potes/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0005-3040-7856-green?style=flat)](https://orcid.org/0009-0005-3040-7856)
 
 ## Areas of interest
 - **Robotics & Autonomous Systems**
@@ -41,4 +40,3 @@ Thesis: "Distributed Control Strategies for Autonomous Vehicle Swarms"
 
 - Professional Inquiry: [LinkedIn](https://www.linkedin.com/in/andre-potes/)
 - Technical Discussion: [GitHub Issues](https://github.com/yourusername)
-- Research Collaboration: [ORCID Profile](https://orcid.org/0009-0005-3040-7856)

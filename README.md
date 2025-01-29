@@ -1,15 +1,44 @@
-My name is André, an Electrical and Computer Engineering specialized in Robotics. 
+# My name is André Potes, and Electrical and Computer engineer specialized in Robotics and Software Development
 
-Currently working at Institute for Systems and Robotics at Instituto Superior Técnico, in Lisbon. The work I am developing alongside my colleagues consists of:
-- Developing new Guidance, Navigation and Control software towards expanding our current robotics stack capabilities.
-- Maintain old and new software to fit accordingly in our stack.
-- Help other investigators/colleagues in their research work and projects where our department is currently enrolled.
-- Create new content to spread the word and image of the department.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andre-potes/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0005-3040-7856-green?style=flat)](https://orcid.org/0009-0005-3040-7856)
 
-![image](https://user-images.githubusercontent.com/29001598/177327085-5e916556-00ab-4b76-a1aa-f3ebb7752a57.png)
+## Areas of interest
+- **Robotics & Autonomous Systems**
+- **Multi-Vehicle Trajectory Tracking & Control Algorithms**
+- **PX4 Autopilot Integration & ROS2 Development**
+- **Embedded Systems & Linux System Programming**
+- **Model-Based Design (MATLAB/Simulink)**
 
+## Some Technologies that I am familiar with
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/-PX4_Autopilot-00A3E0)
+![MATLAB/Simulink](https://img.shields.io/badge/-MATLAB/Simulink-0076A8)
 
-<!---
-andrepotes/andrepotes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects worked one
+### Multi-Vehicle Trajectory Tracking Controller
+ROS2-based control system for autonomous drone swarms, featuring:
+- Virtual target propagation algorithms
+- GPS/IMU sensor fusion integration
+- Velocity command optimization for formation flight
+
+### Simulation Framework for Autonomous Systems
+- Gazebo-based multi-agent simulation environment
+- Hardware-in-the-loop testing platform
+- Performance analysis tools for swarm robotics
+
+## 📚 Certifications
+- **LPIC-2 Linux Engineer**
+- **MATLAB/Simulink Model-Based Design**
+- **Advanced C++ Development (STL, Design Patterns)**
+
+## 🎓 Education
+**MSc in Electrical and Computer Engineering**  
+*Instituto Superior Técnico*  
+Thesis: "Distributed Control Strategies for Autonomous Vehicle Swarms"
+
+- Professional Inquiry: [LinkedIn](https://www.linkedin.com/in/andre-potes/)
+- Technical Discussion: [GitHub Issues](https://github.com/yourusername)
+- Research Collaboration: [ORCID Profile](https://orcid.org/0009-0005-3040-7856)
